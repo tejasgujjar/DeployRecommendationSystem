@@ -846,3 +846,6 @@ span.stars span {
         border-top:0 none;
     }
 }
+.caption-content p{
+	margin: 1px;
+}
